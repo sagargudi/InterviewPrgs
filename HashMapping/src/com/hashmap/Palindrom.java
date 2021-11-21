@@ -21,7 +21,7 @@ public class Palindrom {
 			System.out.println("palidrome");
 		}
 		else {
-			System.out.println("No");
+			System.out.println("Not Palindrome");
 		}
 	}
 }
